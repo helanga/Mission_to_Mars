@@ -6,7 +6,7 @@ This project consisted on a Python script to scrape text and images from various
 
 Resources
 
--	Web pages scraped:
+	Web pages scraped:
 
   -	https://data-class-mars.s3.amazonaws.com/Mars/index.html
   
@@ -16,10 +16,17 @@ Resources
   
   - https://marshemispheres.com/
   
-•	Software:
-o	Python
-o	Jupyter Notebook
-o	Pandas, BeautifulSoup, Splinter, ChromeDriverManager, Flask, PyMongo
-o	MongoDB
-o	HTML5
-o	Bootstrap 3
+	Software:
+  
+o
+- Python
+
+-	Jupyter Notebook
+
+-	Pandas, BeautifulSoup, Splinter, ChromeDriverManager, Flask, PyMongo
+
+- 	MongoDB
+
+- HTML5
+
+- Bootstrap 3
